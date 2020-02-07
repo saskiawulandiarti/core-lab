@@ -1,0 +1,45 @@
+.background {
+  margin: auto;
+  width: 30%;
+  border: 3px solid grey;
+  padding: 10px;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.smallbackground {
+  margin: auto;
+  width: 20%;
+    border: 2px solid grey;
+  background-color: white;
+  padding: 10px;
+}
+
+
+.cbackground {
+  margin: auto;
+  width: 50%;
+    border: 2px solid
+  background-color:
+  padding: 10px;
+}
+
+.fbackground {
+  margin: auto;
+  width: 30%;
+  border: 2px solid #E9E8EA;
+  background-color: #E9E8EA;
+  padding: 10px;
+}
+.bbackground {
+  margin: auto;
+  width: 30%;
+  border: 2px solid #EDEAE6;
+  background-color:  #EDEAE6; 
+  padding: 10px;
+}
